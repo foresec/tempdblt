@@ -1,4 +1,4 @@
-<img src="./upload/DBLT.png" width=50px; hegith=50px;/> "언제와? Don't be Late Together" 소개
+# <img src="./upload/DBLT.png" width=50px; hegith=50px;/> "언제와? Don't be Late Together" 소개
 
 > [ 약속관리 모바일 앱 서비스 ]  
 > **“모임을 쉽고 간편하게~ 현재 친구 위치를 확인하고 재미있는 지각비 정산까지지!”**
@@ -12,8 +12,8 @@
 ### 이런분들을 위해 "언제와? Don't be Late Together" 서비스를 소개합니다!!
 
 ✔ 지각한 사람과 기다리는 사람 모두가 즐길 수 있는 약속 관리 애플리케이션 약속을 친구와 공유하며 효율적으로 관리할 수 있도록 합니다.  
-✔ 약속 당일 도착지와 참여자들의 GPS 정보를 공유하여 지각자의 거짓말을 예방할 수 있습니다.  
-✔ 지각비를 회수하는 메타버스 게임을 통해 먼저 도착한 사람이 지루한 대기시간을 즐겁게 보낼 수 있도록 합니다.
+✔ 약속 당일 도착지와 참여자들의 GPS 정보를 공유하여  지각자의 거짓말을 예방할 수 있습니다.  
+✔ 지각비를 회수하는 메타버스 게임을 통해 먼저 도착한 사람이 지루한 대기시간을 즐겁게 보낼 수 있도록 합니다.  
 
 <br /><br />
 
@@ -39,13 +39,14 @@
 
 <br /><br />
 
-## 💻팀원 및 담당파트
+## 💻팀원 및 담당파트  
+
 
 **김부경(팀장/Backend)**
 
 - EC2, Docker, Jenkins를 활용한 CI/CD 구축
 - MySQL, Nginx 서버 구축
-- 약속 생성, 수정, 삭제, 조회 기능 개발
+- 약속 생성, 수정, 삭제, 조회 기능 개발 
 - 약속 참가자 등록 및 수정 기능 개발
 - 웹소켓을 활용한 실시간 위치 공유 및 실시간 도착 로직 구현
 - 시간에 따른 약속 상태 관리 및 상세 페이지 구현
@@ -61,13 +62,14 @@
 - Spring Security와 JWT를 활용한 카카오 로그인 및 회원 관련 기능
 - 회원정보 수정 기능
 - 닉네임 검색
-- 상점 내 아이템 구매 및 캐릭터 착장 변경
+- 상점 내 아이템 구매 및 캐릭터 착장 변경 
 - 게임을 위한 지각비 및 약속 상태 관리
 - 친구 신청/수락·거절/삭제 기능
 - 지갑 내역 및 충전·인출
 - 클라우드를 활용한 정적자원 관리
 
-**박소현(팀원/Mobile)**
+
+**박소현(팀원/Mobile)**  
 
 - 카카오 로그인 구현
 - 약속 상태에 따른 약속 상세 페이지 구현
@@ -277,6 +279,7 @@
 
 ▲ 약속이(캐릭터)의 색, 장갑, 꼬리 등 파츠를 착용하고 구매할 수 있는 페이지
 
+
 <br />
 <br />
 
@@ -303,7 +306,7 @@
 
 <strong>Language</strong> | <img src="https://img.shields.io/badge/Csharp-3178C6?style=flat-square&logo=csharp&logoColor=white" />
 
-<strong>GameEngine</strong> | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
+<strong>GameEngine</strong> | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" /> 
 
 <strong>Library</strong> | <img src="https://img.shields.io/badge/Photon-DB7093?style=flat-square&logo=Photon&logoColor=black"/>
 
